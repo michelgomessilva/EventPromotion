@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Studies.Michel.PromoEvents.API", "Studies.Michel.PromoEvents.API.csproj", "{62D55054-2630-4A86-949A-647374E9F7F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62D55054-2630-4A86-949A-647374E9F7F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62D55054-2630-4A86-949A-647374E9F7F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62D55054-2630-4A86-949A-647374E9F7F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62D55054-2630-4A86-949A-647374E9F7F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E2148A0-27EC-404A-A6D8-D3C58A6D0D48}
+	EndGlobalSection
+EndGlobal

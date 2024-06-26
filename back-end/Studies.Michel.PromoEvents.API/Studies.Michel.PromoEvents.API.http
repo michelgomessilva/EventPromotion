@@ -1,0 +1,6 @@
+@Studies.Michel.PromoEvents.API_HostAddress = http://localhost:5062
+
+GET {{Studies.Michel.PromoEvents.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
